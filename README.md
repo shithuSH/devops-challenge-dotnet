@@ -46,7 +46,7 @@ You've received feedback on the application from members of the project team. Op
 
 3. The database administrator has identified poor query performance when a sale record is retrieved using its transaction ID. They have recommended creating an index.
 
-## Attempt:clock5:
+## Attempt :clock5:
 
 Spend as much or as little time as you like on this challenge. DevOps Engineers wear many hats :crown:, and there's always more opportunity for change and improvement. **Limit yourself to the time you have. Make the changes that deliver the most value.**
 

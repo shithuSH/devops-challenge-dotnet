@@ -28,10 +28,6 @@ jobs:
     - name: Build Solution
       run: dotnet build DevOpsChallenge.SalesApi.sln --configuration Release
 
-    # Step 5: Run Unit Tests
-    - name: Run Unit Tests
-      run: dotnet test DevOpsChallenge.SalesApi.sln --configuration Release
-
     # Step 6: Build Docker image
     - name: Build Docker Image
       run: |

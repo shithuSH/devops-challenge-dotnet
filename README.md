@@ -2,7 +2,7 @@
 
 ## Overview :wave:
 
-This challenge focuses on the diverse skills needed by a DevOps Engineer to develop a.NET 5 application.
+This challenge focuses on the diverse skills needed by a DevOps Engineer to develop a.NET 5 application..
 
 In completing the challenge, you're welcome to change all aspects of the initial repository, including:
 * Directory and file structure.

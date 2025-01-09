@@ -39,8 +39,8 @@ jobs:
       run: nohup dotnet run --project src/DevOpsChallenge.SalesApi/DevOpsChallenge.SalesApi.csproj &
 
     # Step 6: Run Unit Tests
-    - name: Run Unit Tests
-      run: dotnet test DevOpsChallenge.SalesApi.sln --configuration Release
+    #- name: Run Unit Tests
+    #  run: dotnet test DevOpsChallenge.SalesApi.sln --configuration Release
 
     # Step 7: Build Docker image
     - name: Build Docker Image

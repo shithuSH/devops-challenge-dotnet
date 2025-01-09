@@ -36,7 +36,7 @@ jobs:
 
     # Step 5: Running the API in the background for Unit Testing
     - name: Start API Server
-      run: dotnet run --project src/DevOpsChallenge.SalesApi/DevOpsChallenge.SalesApi.csproj
+      run: nohup dotnet run --project src/DevOpsChallenge.SalesApi/DevOpsChallenge.SalesApi.csproj &
 
     # Step 6: Run Unit Tests
     - name: Run Unit Tests
